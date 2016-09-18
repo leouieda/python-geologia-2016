@@ -98,23 +98,24 @@ O objetivo é que no final do curso vocês consigam:
 
 Para isso, vamos seguir o seguinte cronograma de atividades:
 
-| **DIA 1** |
-| Introdução |
-| Primeiros passos: abrindo e fechando |
-| Variáveis: números, texto e listas de coisas |
-| Funções |
-| *Intervalo de 15 min* |
-| Bibliotecas |
-| Lendo e manipulando dados com o numpy |
-| Fazendo gráficos com o matplotlib |
-| **DIA 2** |
-| Recapitulando |
-| Repetindo ações com `for` |
-| Condicionais |
-| *Intervalo de 15 min* |
-| Leitura de dados de forma artesanal |
-| Analisando nossos com numpy e scipy |
-| *Encerramento* |
+|   | **DIA 1** |
+|--:|:-----------|
+| 1 | Introdução |
+| 2 | Primeiros passos: abrindo e fechando |
+| 3 | Variáveis: números, texto e listas de coisas |
+| 4 | Funções |
+| - | *Intervalo de 15 min* |
+| 5 | Bibliotecas |
+| 6 | Lendo e manipulando dados com o numpy |
+| 7 | Fazendo gráficos com o matplotlib |
+|   | **DIA 2** |
+| 8 | Recapitulando |
+| 9 | Repetindo ações com `for` |
+|10 | Condicionais |
+| - | *Intervalo de 15 min* |
+|11 | Leitura de dados de forma artesanal |
+|12 | Analisando nossos com numpy e scipy |
+| - | *Encerramento* |
 
 
 ## License
