@@ -25,6 +25,16 @@ Espero que todos os alunos terminem o curso com ideias de como aplicar esses
 conhecimentos em seu trabalho.
 
 
+## Conduta
+
+Eu espero uma conduta civil e amigável durante o curso. Não tolero
+comportamento ofensivo durante as aulas, falta de respeito e nem a
+ridicularização dos colegas.
+
+Eu encorajo todos a perguntarem e engajarem com os colegas ao lado. Não existem
+perguntas "bestas", "irrelevantes", "óbvias", etc. Não levem dúvidas para casa.
+
+
 ## O que instalar
 
 Existem várias distribuições do Python disponíveis. Algumas vem somente com o
@@ -60,6 +70,51 @@ Se você é dos que são mais nerds do que isso (ou tem interesse em se tornar),
 o [Python Challenge](http://www.pythonchallenge.com/) é um excelente jeito de
 aprender recursos extremamente úteis do Python.
 
+
+## Conteúdo
+
+Vou seguir mais ou menos o material dos cursos
+[Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+e [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
+do Software Carpentry.
+Farei uma mistura dos dois e usando dados de temperatura do Brasil ao invés dos
+dados que eles utilizam.
+
+Baixe um arquivo zip com os dados e todo o material desse curso:
+[python-geologia-2016.zip](https://github.com/leouieda/python-geologia-2016/archive/master.zip)
+
+Os dados foram baixados do site [Berkeley Earth](http://berkeleyearth.org/).
+Cada arquivo corresponde a séria temporal de temperatura média mensal para uma
+capital. O arquivo `brazil-TAVG-Trend.txt` corresponde aos dados médios para
+todo Brazil.
+
+O objetivo é que no final do curso vocês consigam:
+
+* Carregar os dados no Python
+* Fazer um gráfico parecido com o do Berkeley Earth (por exemplo
+  http://berkeleyearth.lbl.gov/regions/brazil)
+* Calcular médias e determinar uma tendência linear
+* Repetir a análise para diversos arquivos diferentes de maneira automática
+
+Para isso, vamos seguir o seguinte cronograma de atividades:
+
+| **DIA 1** |
+| Introdução |
+| Primeiros passos: abrindo e fechando |
+| Variáveis: números, texto e listas de coisas |
+| Funções |
+| *Intervalo de 15 min* |
+| Bibliotecas |
+| Lendo e manipulando dados com o numpy |
+| Fazendo gráficos com o matplotlib |
+| **DIA 2** |
+| Recapitulando |
+| Repetindo ações com `for` |
+| Condicionais |
+| *Intervalo de 15 min* |
+| Leitura de dados de forma artesanal |
+| Analisando nossos com numpy e scipy |
+| *Encerramento* |
 
 
 ## License
